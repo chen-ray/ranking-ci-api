@@ -66,7 +66,7 @@ class Breakdown extends BaseApi
                     'Accept'        => 'application/json, text/plain, */*'
                 ],
                 'json' => $data,
-                'debug' => '/var/www/ranking-ci-api/writable/logs/curl_log.txt'
+                //'debug' => '/var/www/ranking-ci-api/writable/logs/curl_log.txt'
             ]
         );
 
