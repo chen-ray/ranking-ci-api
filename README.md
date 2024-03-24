@@ -6,7 +6,7 @@ In BWF you can check the player rankings.
 * Author: CHEN Ray 
 * Email：chenraygogo@gmail.com
 
-##The website uses the following software, thank them ~
+## The website uses the following software, thank them ~
 
 * The project adopts a design that separates the front and back ends.
 * The front-end uses VUE V3.
