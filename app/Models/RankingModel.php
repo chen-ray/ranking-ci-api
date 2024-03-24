@@ -18,5 +18,5 @@ class RankingModel extends Model
         'username', 'email', 'password',
     ];
     protected $returnType    = Ranking::class;
-    protected bool $useTimestamps = true;
+    protected $useTimestamps = true;
 }
